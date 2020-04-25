@@ -1,5 +1,5 @@
 # LogReg
-LogReg proposed a comparative study of the regularized logistic regression with seven effective penalties, i.e., ridge, lasso, elastic net, L0, L1/2, SCAD and MCP, for the selection of strongly indicative genes from gene expression data. 
+LogReg: A method of regularized logistic regression for biomarker discovery from gene expression data. 
 
 (1) "Box_PRS.R"  ----  Obtain the boxplot of of preterm risk score (PRS) on the independent dataset.
 
