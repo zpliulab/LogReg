@@ -1,5 +1,5 @@
 # LogReg
-LogReg: A method of regularized logistic regression for biomarker discovery from gene expression data. 
+LogReg: A method of regularized logistic regression for biomarker discovery from gene expression data and compare with other 5 RFE methods. 
 
 (1) "Box_PRS.R"  ----  Obtain the boxplot of of preterm risk score (PRS) on the independent dataset.
 
