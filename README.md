@@ -15,4 +15,24 @@ LogReg: A method of regularized logistic regression for biomarker discovery from
 
 (6) "GSE73685_expr.R" ----  Processing original data of GSE73685. 	
 
-(7) "Hyper_test.R" ----  Calculate the number of overlapping genes selected by hypergeometric test. 	
+(7) "Hyper_test.R" ----  Calculate the number of overlapping genes selected by hypergeometric test. 
+
+(8) "RFE_ROC_clear.R" ---- SVM classifier.
+
+(9) "feature_overlap_clear.R" ---- SVM: Intersection of feature subsets obtained by 5 RFE methods to identify biomarkers.
+
+(10) "feature_select_clear.R" ---- SVM: Extract features from the test set and verification set separately.
+
+(11) "class_feature.R" ---- SVM: Perform independent data set verification and draw ROC curve.
+
+(12) "cluster_clear.R" ---- SVM: Enrichment analysis of identified biomarkers.
+
+(13) "ref_knn.R" ---- SVM: KNN-RFE.
+
+(14) "ref_nnet.R.R" ---- SVM: NN-RFE.
+
+(15) "rfsvm.py" ---- SVM: RF-RFE.
+
+(16) "svmrfe.py" ---- SVM: SVM-RFE.
+
+(17) "abrfe.py" ---- SVM: AB-RFE.
