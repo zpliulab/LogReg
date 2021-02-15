@@ -1,5 +1,5 @@
 # LogReg
-LogReg: A method of regularized logistic regression for biomarker discovery from gene expression data and compare with other 5 RFE methods. 
+LogReg: A method of regularized logistic regression for biomarker discovery from gene expression data and compare with other 5 RFE methods. In the Data_SPTB folder, we only give examples of the file format input by each R program. The input file only gives the first few lines, but this does not affect the results of the article.
 
 (1) "Box_PRS.R"  ----  Obtain the boxplot of of preterm risk score (PRS) on the independent dataset.
 
