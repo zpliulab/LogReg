@@ -1,6 +1,6 @@
 # [LogReg (regularized logistic regression)](https://github.com/zpliulab/LogReg)
 
-[![Screenshot](https://ars.els-cdn.com/content/image/1-s2.0-S2001037020304505-ga1.jpg)](https://doi.org/10.1016/j.csbj.2020.10.028)
+[![Screenshot](https://ars.els-cdn.com/content/image/1-s2.0-S2001037020304505-gr1.jpg)](https://doi.org/10.1016/j.csbj.2020.10.028)
 
 In this work, we provide **a computational method of regularized logistic regression** for discovering biomarkers of **spontaneous preterm birth (SPTB)** from gene expression data. The successful identification of SPTB biomarkers will greatly benefit the interference of infant gestational age for reducing the risks of pregnant women and preemies. **Obviously, the proposed method of discovering biomarkers for SPTB can be easily extended for other complex diseases**.
 
