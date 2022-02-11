@@ -1,0 +1,184 @@
+Accession,Title,Source name,Subject id,Tissue type,Outcome,Lable
+GSM1900768,Amnion_2502,Amnion,2502,Amnion,TNL term no labor,0
+GSM1900769,Cord Blood_2502,Cord Blood,2502,Cord Blood,TNL term no labor,0
+GSM1900770,Chorion_2502,Chorion,2502,Chorion,TNL term no labor,0
+GSM1900771,Decidua_2502,Decidua,2502,Decidua,TNL term no labor,0
+GSM1900772,Maternal Blood_2502,Maternal Blood,2502,Maternal Blood,TNL term no labor,0
+GSM1900773,Fundus_2502,Fundus,2502,Fundus,TNL term no labor,0
+GSM1900774,Lower Segment_2502,Lower Segment,2502,Lower Segment,TNL term no labor,0
+GSM1900775,Amnion_2503,Amnion,2503,Amnion,PL preterm with labor,1
+GSM1900776,Chorion_2503,Chorion,2503,Chorion,PL preterm with labor,1
+GSM1900777,Maternal Blood_2503,Maternal Blood,2503,Maternal Blood,PL preterm with labor,1
+GSM1900778,Amnion_2504,Amnion,2504,Amnion,PNL preterm no labor,1
+GSM1900779,Chorion_2504,Chorion,2504,Chorion,PNL preterm no labor,1
+GSM1900780,Decidua_2504,Decidua,2504,Decidua,PNL preterm no labor,1
+GSM1900781,Maternal Blood_2504,Maternal Blood,2504,Maternal Blood,PNL preterm no labor,1
+GSM1900782,Placenta_2504,Placenta,2504,Placenta,PNL preterm no labor,1
+GSM1900783,Lower Segment_2504,Lower Segment,2504,Lower Segment,PNL preterm no labor,1
+GSM1900784,Placenta_2505,Placenta,2505,Placenta,TNL term no labor,0
+GSM1900785,Amnion_2506,Amnion,2506,Amnion,TL term with labor,0
+GSM1900786,Cord Blood_2506,Cord Blood,2506,Cord Blood,TL term with labor,0
+GSM1900787,Chorion_2506,Chorion,2506,Chorion,TL term with labor,0
+GSM1900788,Decidua_2506,Decidua,2506,Decidua,TL term with labor,0
+GSM1900789,Maternal Blood_2506,Maternal Blood,2506,Maternal Blood,TL term with labor,0
+GSM1900790,Placenta_2506,Placenta,2506,Placenta,TL term with labor,0
+GSM1900791,Fundus_2506,Fundus,2506,Fundus,TL term with labor,0
+GSM1900792,Lower Segment_2506,Lower Segment,2506,Lower Segment,TL term with labor,0
+GSM1900793,Placenta_2507,Placenta,2507,Placenta,TNL term no labor,0
+GSM1900794,Amnion_2508,Amnion,2508,Amnion,pPROM with labor,1
+GSM1900795,Cord Blood_2508,Cord Blood,2508,Cord Blood,pPROM with labor,1
+GSM1900796,Chorion_2508,Chorion,2508,Chorion,pPROM with labor,1
+GSM1900797,Decidua_2508,Decidua,2508,Decidua,pPROM with labor,1
+GSM1900798,Maternal Blood_2508,Maternal Blood,2508,Maternal Blood,pPROM with labor,1
+GSM1900799,Fundus_2508,Fundus,2508,Fundus,pPROM with labor,1
+GSM1900800,Lower Segment_2508,Lower Segment,2508,Lower Segment,pPROM with labor,1
+GSM1900801,Placenta_2509,Placenta,2509,Placenta,TNL term no labor,0
+GSM1900802,Amnion_2510,Amnion,2510,Amnion,TL term with labor,0
+GSM1900803,Cord Blood_2510,Cord Blood,2510,Cord Blood,TL term with labor,0
+GSM1900804,Chorion_2510,Chorion,2510,Chorion,TL term with labor,0
+GSM1900805,Decidua_2510,Decidua,2510,Decidua,TL term with labor,0
+GSM1900806,Maternal Blood_2510,Maternal Blood,2510,Maternal Blood,TL term with labor,0
+GSM1900807,Placenta_2510,Placenta,2510,Placenta,TL term with labor,0
+GSM1900808,Lower Segment_2510,Lower Segment,2510,Lower Segment,TL term with labor,0
+GSM1900809,Cord Blood_2512,Cord Blood,2512,Cord Blood,PL preterm with labor,1
+GSM1900810,Chorion_2512,Chorion,2512,Chorion,PL preterm with labor,1
+GSM1900811,Decidua_2512,Decidua,2512,Decidua,PL preterm with labor,1
+GSM1900812,Placenta_2513,Placenta,2513,Placenta,PNL preterm no labor,1
+GSM1900813,Cord Blood_2515,Cord Blood,2515,Cord Blood,PNL preterm no labor,1
+GSM1900814,Amnion_2517,Amnion,2517,Amnion,pPROM no labor,1
+GSM1900815,Chorion_2517,Chorion,2517,Chorion,pPROM no labor,1
+GSM1900816,Decidua_2517,Decidua,2517,Decidua,pPROM no labor,1
+GSM1900817,Maternal Blood_2517,Maternal Blood,2517,Maternal Blood,pPROM no labor,1
+GSM1900818,Placenta_2517,Placenta,2517,Placenta,pPROM no labor,1
+GSM1900819,Fundus_2517,Fundus,2517,Fundus,pPROM no labor,1
+GSM1900820,Lower Segment_2517,Lower Segment,2517,Lower Segment,pPROM no labor,1
+GSM1900821,Lower Segment_5503,Lower Segment,5503,Lower Segment,TL term with labor,0
+GSM1900822,Amnion_5512,Amnion,5512,Amnion,TNL term no labor,0
+GSM1900823,Cord Blood_5512,Cord Blood,5512,Cord Blood,TNL term no labor,0
+GSM1900824,Chorion_5512,Chorion,5512,Chorion,TNL term no labor,0
+GSM1900825,Decidua_5512,Decidua,5512,Decidua,TNL term no labor,0
+GSM1900826,Maternal Blood_5512,Maternal Blood,5512,Maternal Blood,TNL term no labor,0
+GSM1900827,Placenta_5512,Placenta,5512,Placenta,TNL term no labor,0
+GSM1900828,Fundus_5512,Fundus,5512,Fundus,TNL term no labor,0
+GSM1900829,Lower Segment_5512,Lower Segment,5512,Lower Segment,TNL term no labor,0
+GSM1900830,Amnion_5517,Amnion,5517,Amnion,TNL term no labor,0
+GSM1900831,Cord Blood_5517,Cord Blood,5517,Cord Blood,TNL term no labor,0
+GSM1900832,Chorion_5517,Chorion,5517,Chorion,TNL term no labor,0
+GSM1900833,Decidua_5517,Decidua,5517,Decidua,TNL term no labor,0
+GSM1900834,Maternal Blood_5517,Maternal Blood,5517,Maternal Blood,TNL term no labor,0
+GSM1900835,Placenta_5517,Placenta,5517,Placenta,TNL term no labor,0
+GSM1900836,Fundus_5517,Fundus,5517,Fundus,TNL term no labor,0
+GSM1900837,Lower Segment_5517,Lower Segment,5517,Lower Segment,TNL term no labor,0
+GSM1900838,Amnion_5520,Amnion,5520,Amnion,PNL preterm no labor,1
+GSM1900839,Cord Blood_5520,Cord Blood,5520,Cord Blood,PNL preterm no labor,1
+GSM1900840,Decidua_5520,Decidua,5520,Decidua,PNL preterm no labor,1
+GSM1900841,Maternal Blood_5520,Maternal Blood,5520,Maternal Blood,PNL preterm no labor,1
+GSM1900842,Placenta_5520,Placenta,5520,Placenta,PNL preterm no labor,1
+GSM1900843,Fundus_5520,Fundus,5520,Fundus,PNL preterm no labor,1
+GSM1900844,Lower Segment_5520,Lower Segment,5520,Lower Segment,PNL preterm no labor,1
+GSM1900845,Amnion_5523,Amnion,5523,Amnion,TNL term no labor,0
+GSM1900846,Cord Blood_5523,Cord Blood,5523,Cord Blood,TNL term no labor,0
+GSM1900847,Chorion_5523,Chorion,5523,Chorion,TNL term no labor,0
+GSM1900848,Decidua_5523,Decidua,5523,Decidua,TNL term no labor,0
+GSM1900849,Maternal Blood_5523,Maternal Blood,5523,Maternal Blood,TNL term no labor,0
+GSM1900850,Fundus_5523,Fundus,5523,Fundus,TNL term no labor,0
+GSM1900851,Lower Segment_5523,Lower Segment,5523,Lower Segment,TNL term no labor,0
+GSM1900852,Amnion_5524,Amnion,5524,Amnion,TNL term no labor,0
+GSM1900853,Cord Blood_5524,Cord Blood,5524,Cord Blood,TNL term no labor,0
+GSM1900854,Chorion_5524,Chorion,5524,Chorion,TNL term no labor,0
+GSM1900855,Decidua_5524,Decidua,5524,Decidua,TNL term no labor,0
+GSM1900856,Maternal Blood_5524,Maternal Blood,5524,Maternal Blood,TNL term no labor,0
+GSM1900857,Fundus_5524,Fundus,5524,Fundus,TNL term no labor,0
+GSM1900858,Lower Segment_5524,Lower Segment,5524,Lower Segment,TNL term no labor,0
+GSM1900859,Amnion_5531,Amnion,5531,Amnion,TNL term no labor,0
+GSM1900860,Cord Blood_5531,Cord Blood,5531,Cord Blood,TNL term no labor,0
+GSM1900861,Chorion_5531,Chorion,5531,Chorion,TNL term no labor,0
+GSM1900862,Decidua_5531,Decidua,5531,Decidua,TNL term no labor,0
+GSM1900863,Maternal Blood_5531,Maternal Blood,5531,Maternal Blood,TNL term no labor,0
+GSM1900864,Placenta_5531,Placenta,5531,Placenta,TNL term no labor,0
+GSM1900865,Fundus_5531,Fundus,5531,Fundus,TNL term no labor,0
+GSM1900866,Lower Segment_5531,Lower Segment,5531,Lower Segment,TNL term no labor,0
+GSM1900867,Amnion_5534,Amnion,5534,Amnion,TL term with labor,0
+GSM1900868,Cord Blood_5534,Cord Blood,5534,Cord Blood,TL term with labor,0
+GSM1900869,Chorion_5534,Chorion,5534,Chorion,TL term with labor,0
+GSM1900870,Decidua_5534,Decidua,5534,Decidua,TL term with labor,0
+GSM1900871,Placenta_5534,Placenta,5534,Placenta,TL term with labor,0
+GSM1900872,Amnion_5535,Amnion,5535,Amnion,PNL preterm no labor,1
+GSM1900873,Cord Blood_5535,Cord Blood,5535,Cord Blood,PNL preterm no labor,1
+GSM1900874,Chorion_5535,Chorion,5535,Chorion,PNL preterm no labor,1
+GSM1900875,Decidua_5535,Decidua,5535,Decidua,PNL preterm no labor,1
+GSM1900876,Maternal Blood_5535,Maternal Blood,5535,Maternal Blood,PNL preterm no labor,1
+GSM1900877,Placenta_5535,Placenta,5535,Placenta,PNL preterm no labor,1
+GSM1900878,Fundus_5535,Fundus,5535,Fundus,PNL preterm no labor,1
+GSM1900879,Lower Segment_5535,Lower Segment,5535,Lower Segment,PNL preterm no labor,1
+GSM1900880,Amnion_5537,Amnion,5537,Amnion,PNL preterm no labor,1
+GSM1900881,Cord Blood_5537,Cord Blood,5537,Cord Blood,PNL preterm no labor,1
+GSM1900882,Chorion_5537,Chorion,5537,Chorion,PNL preterm no labor,1
+GSM1900883,Decidua_5537,Decidua,5537,Decidua,PNL preterm no labor,1
+GSM1900884,Maternal Blood_5537,Maternal Blood,5537,Maternal Blood,PNL preterm no labor,1
+GSM1900885,Fundus_5537,Fundus,5537,Fundus,PNL preterm no labor,1
+GSM1900886,Lower Segment_5537,Lower Segment,5537,Lower Segment,PNL preterm no labor,1
+GSM1900887,Amnion_5539,Amnion,5539,Amnion,PL preterm with labor,1
+GSM1900888,Chorion_5539,Chorion,5539,Chorion,PL preterm with labor,1
+GSM1900889,Decidua_5539,Decidua,5539,Decidua,PL preterm with labor,1
+GSM1900890,Maternal Blood_5539,Maternal Blood,5539,Maternal Blood,PL preterm with labor,1
+GSM1900891,Lower Segment_5539,Lower Segment,5539,Lower Segment,PL preterm with labor,1
+GSM1900892,Amnion_5544,Amnion,5544,Amnion,pPROM with labor,1
+GSM1900893,Chorion_5544,Chorion,5544,Chorion,pPROM with labor,1
+GSM1900894,Decidua_5544,Decidua,5544,Decidua,pPROM with labor,1
+GSM1900895,Maternal Blood_5544,Maternal Blood,5544,Maternal Blood,pPROM with labor,1
+GSM1900896,Fundus_5544,Fundus,5544,Fundus,pPROM with labor,1
+GSM1900897,Lower Segment_5544,Lower Segment,5544,Lower Segment,pPROM with labor,1
+GSM1900898,Amnion_5548,Amnion,5548,Amnion,PL preterm with labor,1
+GSM1900899,Cord Blood_5548,Cord Blood,5548,Cord Blood,PL preterm with labor,1
+GSM1900900,Placenta_5548,Placenta,5548,Placenta,PL preterm with labor,1
+GSM1900901,Lower Segment_5548,Lower Segment,5548,Lower Segment,PL preterm with labor,1
+GSM1900902,Cord Blood_5549,Cord Blood,5549,Cord Blood,pPROM no labor,1
+GSM1900903,Chorion_5549,Chorion,5549,Chorion,pPROM no labor,1
+GSM1900904,Decidua_5549,Decidua,5549,Decidua,pPROM no labor,1
+GSM1900905,Maternal Blood_5549,Maternal Blood,5549,Maternal Blood,pPROM no labor,1
+GSM1900906,Placenta_5549,Placenta,5549,Placenta,pPROM no labor,1
+GSM1900907,Fundus_5549,Fundus,5549,Fundus,pPROM no labor,1
+GSM1900908,Lower Segment_5549,Lower Segment,5549,Lower Segment,pPROM no labor,1
+GSM1900909,Amnion_5627,Amnion,5627,Amnion,TL term with labor,0
+GSM1900910,Cord Blood_5627,Cord Blood,5627,Cord Blood,TL term with labor,0
+GSM1900911,Decidua_5627,Decidua,5627,Decidua,TL term with labor,0
+GSM1900912,Maternal Blood_5627,Maternal Blood,5627,Maternal Blood,TL term with labor,0
+GSM1900913,Placenta_5627,Placenta,5627,Placenta,TL term with labor,0
+GSM1900914,Fundus_5627,Fundus,5627,Fundus,TL term with labor,0
+GSM1900915,Lower Segment_5627,Lower Segment,5627,Lower Segment,TL term with labor,0
+GSM1900916,Amnion_5637,Amnion,5637,Amnion,pPROM no labor,1
+GSM1900917,Chorion_5637,Chorion,5637,Chorion,pPROM no labor,1
+GSM1900918,Placenta_5637,Placenta,5637,Placenta,pPROM no labor,1
+GSM1900919,Fundus_5637,Fundus,5637,Fundus,pPROM no labor,1
+GSM1900920,Cord Blood_5646,Cord Blood,5646,Cord Blood,PL preterm with labor,1
+GSM1900921,Cord Blood_5647,Cord Blood,5647,Cord Blood,PL preterm with labor,1
+GSM1900922,Maternal Blood_5647,Maternal Blood,5647,Maternal Blood,PL preterm with labor,1
+GSM1900923,Placenta_5647,Placenta,5647,Placenta,PL preterm with labor,1
+GSM1900924,Fundus_5647,Fundus,5647,Fundus,PL preterm with labor,1
+GSM1900925,Lower Segment_5647,Lower Segment,5647,Lower Segment,PL preterm with labor,1
+GSM1900926,Amnion_5648,Amnion,5648,Amnion,TL term with labor,0
+GSM1900927,Cord Blood_5648,Cord Blood,5648,Cord Blood,TL term with labor,0
+GSM1900928,Chorion_5648,Chorion,5648,Chorion,TL term with labor,0
+GSM1900929,Maternal Blood_5648,Maternal Blood,5648,Maternal Blood,TL term with labor,0
+GSM1900930,Placenta_5648,Placenta,5648,Placenta,TL term with labor,0
+GSM1900931,Fundus_5648,Fundus,5648,Fundus,TL term with labor,0
+GSM1900932,Lower Segment_5648,Lower Segment,5648,Lower Segment,TL term with labor,0
+GSM1900933,Amnion_5650,Amnion,5650,Amnion,PNL preterm no labor,1
+GSM1900934,Cord Blood_5650,Cord Blood,5650,Cord Blood,PNL preterm no labor,1
+GSM1900935,Chorion_5650,Chorion,5650,Chorion,PNL preterm no labor,1
+GSM1900936,Decidua_5650,Decidua,5650,Decidua,PNL preterm no labor,1
+GSM1900937,Maternal Blood_5650,Maternal Blood,5650,Maternal Blood,PNL preterm no labor,1
+GSM1900938,Fundus_5650,Fundus,5650,Fundus,PNL preterm no labor,1
+GSM1900939,Lower Segment_5650,Lower Segment,5650,Lower Segment,PNL preterm no labor,1
+GSM1900940,Amnion_8502,Amnion,8502,Amnion,TNL term no labor,0
+GSM1900941,Cord Blood_8502,Cord Blood,8502,Cord Blood,TNL term no labor,0
+GSM1900942,Chorion_8502,Chorion,8502,Chorion,TNL term no labor,0
+GSM1900943,Decidua_8502,Decidua,8502,Decidua,TNL term no labor,0
+GSM1900944,Maternal Blood_8502,Maternal Blood,8502,Maternal Blood,TNL term no labor,0
+GSM1900945,Placenta_8502,Placenta,8502,Placenta,TNL term no labor,0
+GSM1900946,Fundus_8502,Fundus,8502,Fundus,TNL term no labor,0
+GSM1900947,Lower Segment_8502,Lower Segment,8502,Lower Segment,TNL term no labor,0
+GSM1900948,Chorion_8503,Chorion,8503,Chorion,TL term with labor,0
+GSM1900949,Decidua_8503,Decidua,8503,Decidua,TL term with labor,0
+GSM1900950,Maternal Blood_8503,Maternal Blood,8503,Maternal Blood,TL term with labor,0
