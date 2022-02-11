@@ -1,4 +1,4 @@
-#LogReg
+# LogReg
 
 **LogReg**: A method of regularized logistic regression for biomarker discovery from gene expression data. 
 
@@ -8,22 +8,30 @@ In this work, we also compared **LogReg** with the other five recursive feature 
 Li, Lingyu, and Zhi-Ping Liu. "Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression." **Computational and Structural Biotechnology Journal** 18 (2020): 3434-3446.
 
 @article{li2020biomarker,
+
   title={Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression},
+
   author={Li, Lingyu and Liu, Zhi-Ping},
+
   journal={Computational and Structural Biotechnology Journal},
+
   volume={18},
+
   pages={3434--3446},
+
   year={2020},
+
   publisher={Elsevier}
+
 }
 
 
-#Data
+# Data
 
 In the **Data** file, we only give some necessary files by each R program. Some of these input files only give the first few lines, but this does not affect the results of the work (**LogReg**).
 
 
-#R code for LogReg
+# R code for LogReg
 
 The **serial number (1) (2) ... (10)** represents the order in which the program runs in our work.
 
