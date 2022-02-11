@@ -7,7 +7,7 @@ In this work, we also compared **LogReg** with the other five recursive feature 
 
 
 # Citation
-Li, Lingyu, and Zhi-Ping Liu. "**Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression**." Computational and Structural Biotechnology Journal 18 (2020): 3434-3446.
+Li, Lingyu, and Zhi-Ping Liu. "**Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression**." Computational and Structural Biotechnology Journal 18 (2020): 3434-3446. \url{https://doi.org/10.1016/j.csbj.2020.10.028}
 
 
 # Data
