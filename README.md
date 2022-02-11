@@ -9,6 +9,8 @@ In this work, we provide **a computational method of regularized logistic regres
 <!--START_SECTION:news-->
 * **LogReg**: A method of regularized logistic regression for biomarker discovery from gene expression data. 
 * In this work, we also compared **LogReg** with the other five recursive feature elimination (**RFE**) feature selection methods, namely, AB-RFE, NN-RFE, RF-RFE, KNN-RFE and SVM-RFE. 
+* If you have any questions about **LogReg**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
+
 <!--END_SECTION:news-->
 
 
