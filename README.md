@@ -37,7 +37,7 @@ The **serial number (1) (2) ... (10)** represents the order in which the program
 * (7) Class_ROC.R" ---- Verify the identified biomarkers on an independent dataset by the AUC value. (**Figure 5** a in our work)
 * (8) Box_PRS.R ---- Obtain the boxplot of of preterm risk score (PRS) on the independent dataset. (**Figure 5** b in our work)
 * (9) Hyper_test.R ---- Calculate the number of overlapping genes selected by hypergeometric test.  (**Table 4** in our work)
-* (10)  Stability.R ---- Calculate the stability of selected features/genes by seven different methods.
+* (10)  StabilityLogReg.R (**New added**) --  Calculate the stability index, and prove the stability/robustness of the 20 biomarkers selected by our subset identification strategy (**Lasso, Elastic net, L1/2, SCAD**).
 <!--END_SECTION:news-->
 
 
