@@ -41,6 +41,16 @@ The **serial number (1) (2) ... (10)** represents the order in which the program
 <!--END_SECTION:news-->
 
 
+## Stability of Feature Selection Techniques for Bioinformatics Dat
+<!--START_SECTION:news-->
+* [Feature selection is one of the most fundamental problems in data analysis, machine learning, and data mining](https://doi.org/10.1007/978-3-030-64583-0_19). Especially in domains where the chosen features are subject to further experimental research, the stability of the feature selection is very important. Stable feature selection means that the set of selected features is robust with respect to different data sets from the same data generating distribution.
+* For data sets with similar features, the evaluation of feature selection stability is more difficult. An example of such data sets is gene expression data sets, where genes of the same biological processes are often highly positively correlated.  Here, stability measures that take into account the similarities between feature subsets are defined as **Hamming stability**.
+* We identified **all combinations** containing 4 sets from the 7 candidate sets, and calculated the **stability index (stabilityHamming)** of 35 combinations, the results are shown in the barplot obtained by R code **StabilityLogReg.R**.
+* The **red bar** is the stability index of our chosen subset of features (2 3 5 6, i.e. **Lasso, Elastic net, L1/2, SCAD**), which ranks **fifth out of all 35 combinations**.
+* This shows that the subset of features we choose not only has **high accuracy/AUC**, but also has **high stability**.
+<!--END_SECTION:news-->
+
+
 ## RcodeForRFE
 R code for five **RFE** feature selection methods.
 <!--START_SECTION:news-->
