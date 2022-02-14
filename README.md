@@ -41,7 +41,7 @@ The **serial number (1) (2) ... (10)** represents the order in which the program
 <!--END_SECTION:news-->
 
 
-## Stability of Feature Selection Techniques for Bioinformatics Dat
+## Stability of Feature Selection Techniques for Bioinformatics Data
 <!--START_SECTION:news-->
 * [Feature selection is one of the most fundamental problems in data analysis, machine learning, and data mining](https://doi.org/10.1007/978-3-030-64583-0_19). Especially in domains where the chosen features are subject to further experimental research, the stability of the feature selection is very important. Stable feature selection means that the set of selected features is robust with respect to different data sets from the same data generating distribution.
 * For data sets with similar features, the evaluation of feature selection stability is more difficult. An example of such data sets is gene expression data sets, where genes of the same biological processes are often highly positively correlated.  Here, stability measures that take into account the similarities between feature subsets are defined as **Hamming stability**.
